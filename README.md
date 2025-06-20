@@ -91,5 +91,9 @@ Feel free to fork, contribute, or suggest improvements via issues or pull reques
 
 ---
 
+Contact
 
+Jeswanth Kanipakam: LinkedIn - https://www.linkedin.com/in/jeswanth-kanipakam
+
+Email: jeswanthkanipakam@gmail.com
 
