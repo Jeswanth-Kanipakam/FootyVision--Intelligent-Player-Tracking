@@ -1,6 +1,6 @@
 # FootyVision — Intelligent Player Tracking
 
-FootyVision is a comprehensive computer vision project that combines object detection, tracking, clustering, and geometric transformations to analyze football matches. The project leverages both state-of-the-art and custom-trained AI models to detect players, referees, and footballs, then track them across video frames while calculating speed and distance covered by individual players.
+FootyVision is a comprehensive computer vision project that combines object detection, tracking, clustering and geometric transformations to analyze football matches. The project leverages both state-of-the-art and custom-trained AI models to detect players, referees and footballs, then track them across video frames while calculating speed and distance covered by individual players.
 
 ---
 
