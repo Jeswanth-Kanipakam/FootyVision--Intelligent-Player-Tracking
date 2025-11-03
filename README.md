@@ -2,6 +2,8 @@
 
 FootyVision is a comprehensive computer vision project that combines object detection, tracking, clustering and geometric transformations to analyze football matches. The project leverages both state-of-the-art and custom-trained AI models to detect players, referees and footballs, then track them across video frames while calculating speed and distance covered by individual players.
 
+<img width="2468" height="1276" alt="screenshot" src="https://github.com/user-attachments/assets/a5d2fcd7-fef8-45e5-b897-62d29039ac8b" />
+
 ---
 
 ## 🔍 Project Overview
